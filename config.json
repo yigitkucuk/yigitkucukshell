@@ -16,24 +16,24 @@
     "paypal": "",
     "patreon": ""
   },
-  "Monokai": {
+  "Nord": {
     "light": {
-      "background": "#F8F8F2",
-      "foreground": "#272822",
-      "yellow": "#F4BF75",
-      "green": "#A6E22E",
-      "gray": "#AE81FF",
-      "blue": "#66D9EF",
-      "red": "#F92672"
+      "background": "#E5E9F0",
+      "foreground": "#2E3440",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     },
     "dark": {
-      "background": "#272822",
-      "foreground": "#F8F8F2",
-      "yellow": "#F4BF75",
-      "green": "#A6E22E",
-      "gray": "#AE81FF",
-      "blue": "#66D9EF",
-      "red": "#F92672"
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     }
   }
 }
