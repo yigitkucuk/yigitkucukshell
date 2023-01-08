@@ -1,10 +1,10 @@
 {
-  "name": "liveterm",
+  "name": "yigitkucukshell",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "Vincent Wu",
-    "url": "https://cveinnt.com",
+    "name": "Yiğit Küçük",
+    "url": "https://yigitkucukshell.vercel.app/",
     "email": "contact@wensenwu.com"
   },
   "scripts": {
