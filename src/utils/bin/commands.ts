@@ -31,11 +31,7 @@ export const repo = async (args: string[]): Promise<string> => {
 // About
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
-Welcome to my website!
-More about me:
-'sumfetch' - short summary.
-'resume' - my latest resume.
-'readme' - my github readme.`;
+Welcome to my website!`;
 };
 
 export const resume = async (args: string[]): Promise<string> => {
@@ -45,7 +41,7 @@ export const resume = async (args: string[]): Promise<string> => {
 
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
-  return `Thank you, not available for now.`;
+  return `Thank you, not available.`;
 };
 
 // Contact
@@ -101,7 +97,7 @@ export const ls = async (args: string[]): Promise<string> => {
 };
 
 export const cd = async (args: string[]): Promise<string> => {
-  return `no.`;
+  return `you shall not pass.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
