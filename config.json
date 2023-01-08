@@ -13,27 +13,27 @@
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": ""
   },
-  "Paraiso": {
+  "Monokai": {
     "light": {
-      "background": "#A39E9B",
-      "foreground": "#2F1E2E",
-      "yellow": "#FEC418",
-      "green": "#48B685",
-      "gray": "#815BA4",
-      "blue": "#06B6EF",
-      "red": "#EF6155"
+      "background": "#F8F8F2",
+      "foreground": "#272822",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
     },
     "dark": {
-      "background": "#2F1E2E",
-      "foreground": "#A39E9B",
-      "yellow": "#FEC418",
-      "green": "#48B685",
-      "gray": "#815BA4",
-      "blue": "#06B6EF",
-      "red": "#EF6155"
+      "background": "#272822",
+      "foreground": "#F8F8F2",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
     }
   }
 }
